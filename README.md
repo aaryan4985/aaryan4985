@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryan4985" alt="aaryan4985" /></a> </p>
 
-- 🔭 I’m currently working on **ClubHouse**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **pradhanaaryan@gmail.com**
 
