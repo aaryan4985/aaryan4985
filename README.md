@@ -21,11 +21,20 @@
 
 ```javascript
 const aaryan = {
+    name: "Aaryan Pradhan",
     role: "Full-Stack Developer",
-    code: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
-    tools: ["React", "Next.js", "Node.js", "MongoDB", "AWS"],
-    focus: "Building scalable web applications",
-    learning: ["Machine Learning", "System Design"]
+    location: "Building the future, one commit at a time 🚀",
+    
+    expertise: {
+        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+        database: ["MongoDB", "MySQL", "Firebase"],
+        cloud: ["AWS", "Vercel", "Netlify"]
+    },
+    
+    currentlyExploring: "🤖 Machine Learning & System Design",
+    motto: "Write code that your future self will thank you for"
 };
 ```
 
@@ -76,8 +85,8 @@ const aaryan = {
 <br>Firebase
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" alt="icon" width="48" height="48" />
-<br>Supabase
+<img src="https://skillicons.dev/icons?i=postman" alt="icon" width="48" height="48" />
+<br>Postman
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
@@ -125,13 +134,17 @@ const aaryan = {
   <img src="https://github-profile-trophy.vercel.app/?username=aaryan4985&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=70a5fd&animation=twinkling&fontAlignY=70" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <div align="center">
   
-  ### 💫 Let's Connect and Build Something Amazing Together!
+  ### 💫 Let's connect and create something extraordinary!
+  
+  <br>
   
   ![](https://komarev.com/ghpvc/?username=aaryan4985&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
