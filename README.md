@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aaryan+Pradhan+👋;Full-Stack+Developer+💻;AI%2FML+Enthusiast+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aaryan+Pradhan+👋;Full-Stack+Developer+💻;AI%2FML+Enthusiast+🤖" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,79 +17,88 @@
 
 </div>
 
-## 🧑‍💻 About Me
+## 🎮 Player Stats
 
 ```javascript
 const aaryan = {
-    pronouns: "He" | "Him",
-    code: ["C", "C++", "Python", "JavaScript"],
-    askMeAbout: ["Web Dev", "Tech", "AI/ML", "Problem Solving"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            databases: ["MongoDB", "MySQL"]
-        },
-        ai_ml: ["Pandas", "NumPy", "Scikit-learn"],
-        tools: ["Git", "GitHub", "VS Code", "Adobe Illustrator"]
+    player: "Aaryan Pradhan",
+    level: "Full-Stack Developer",
+    class: "Code Wizard 🧙‍♂️",
+    
+    skills: {
+        languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Java", "SQL"],
+        specialAttacks: ["MERN Stack", "Next.js", "REST APIs", "GraphQL"],
+        equipment: ["Git", "GitHub", "Postman", "Vercel", "AWS"],
+        powerUps: ["MongoDB", "MySQL", "Firebase", "Supabase"]
     },
-    currentFocus: "Building scalable web applications and exploring AI/ML",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    
+    currentQuest: "Building scalable web applications",
+    achievements: ["Problem Solver", "AI/ML Explorer", "Open Source Contributor"],
+    funFact: "console.log() is my favorite debugging spell! 🪄"
 };
 ```
 
-## 🚀 Tech Stack
+## 🎯 Tech Arsenal
 
 <div align="center">
 
-### Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+### ⚔️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+### 🛡️ Frontend Powers
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+### 🏰 Backend & Database Kingdom
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Others
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Illustrator](https://skillicons.dev/icons?i=illustrator)
+### 🔮 API Magic
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🎒 Dev Tools Inventory
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Gaming Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryan4985&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan4985&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryan4985&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan4985&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan4985&theme=tokyonight&hide_border=true&stroke=0000&background=00000000" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan4985&theme=black-ice&hide_border=true&stroke=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryan4985&custom_title=Contribution%20Graph&bg_color=0D1117&color=70a5fd&line=70a5fd&point=ff9494&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryan4985&custom_title=Experience%20Points%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-## 🏆 Achievements
+## 🏆 Achievement Unlocked!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryan4985&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryan4985&theme=matrix&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
@@ -100,8 +109,8 @@ const aaryan = {
   <br>
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by...;Feel+free+to+explore+my+repos+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Game+Over...+Insert+coin+to+continue+🪙" alt="Typing SVG" />
   </h3>
   
-  ![](https://komarev.com/ghpvc/?username=aaryan4985&color=70a5fd&style=flat-square&label=Profile+Views)
+  ![](https://komarev.com/ghpvc/?username=aaryan4985&color=00FF00&style=flat-square&label=Profile+Views)
 </div>
