@@ -130,7 +130,7 @@ const aaryan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryan4985&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryan4985&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest" />
 </div>
 
 <br>
