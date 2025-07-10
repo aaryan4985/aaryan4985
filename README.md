@@ -95,9 +95,13 @@ const aaryan = {
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
   
-  ### Let's connect and build something amazing together! 🚀
+  <br>
   
-  ![](https://komarev.com/ghpvc/?username=aaryan4985&color=70a5fd&style=for-the-badge)
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by...;Feel+free+to+explore+my+repos+✨" alt="Typing SVG" />
+  </h3>
+  
+  ![](https://komarev.com/ghpvc/?username=aaryan4985&color=70a5fd&style=flat-square&label=Profile+Views)
 </div>
