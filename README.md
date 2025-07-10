@@ -19,39 +19,17 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  languages: string[];
-  frameworks: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    cloud: string[];
-  };
-  currentlyLearning: string[];
-}
-
-const aaryan: Developer = {
-  name: "Aaryan Pradhan",
-  role: "Full-Stack Developer",
-  languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Java", "SQL"],
-  frameworks: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
-    database: ["MongoDB", "MySQL", "Firebase", "Supabase"],
-    cloud: ["AWS", "Vercel", "Netlify"]
-  },
-  currentlyLearning: ["Machine Learning", "System Design", "Web3"]
+```javascript
+const aaryan = {
+    role: "Full-Stack Developer",
+    code: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+    tools: ["React", "Next.js", "Node.js", "MongoDB", "AWS"],
+    focus: "Building scalable web applications",
+    learning: ["Machine Learning", "System Design"]
 };
 ```
 
 ## 🛠️ Tech Stack
-
-<details>
-<summary><b>Click to expand!</b></summary>
-<br>
 
 <table align="center">
 <tr>
@@ -123,8 +101,6 @@ const aaryan: Developer = {
 </td>
 </tr>
 </table>
-
-</details>
 
 ## 📊 GitHub Stats
 
